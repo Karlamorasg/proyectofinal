@@ -6,6 +6,7 @@ import Coverpage from '../Components/Coverpage';
 import Search from '../Components/Search';
 import CardJob from '../Components/CardJob';
 import axios from 'axios';
+import Footer from '../Components/Footer';
 
 
 
@@ -52,6 +53,8 @@ const Main = () => {
                     
                 )
             })} 
+
+            <Footer />
             
             </div>
            

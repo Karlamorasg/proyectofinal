@@ -11,18 +11,17 @@ const Header = () => {
         
     <ul className="nav-right-section">
         <li> 
-            <a href=" "> Ingresar </a>
+            <a href="/login"> Ingresar </a>
         </li>
         <li> 
-         <a href=" "> Registrarse </a>
+         <a href="/register"> Registrarse </a>
        </li>
       <li className="menu-icon"> 
-         <a href=" "> </a>
      </li>
      <li> 
-         <a href=" "> 
+         
          <img src="https://img.icons8.com/fluent/48/000000/gender-neutral-user.png"/>
-         </a>
+         
      </li>
     </ul>
 </nav>     
